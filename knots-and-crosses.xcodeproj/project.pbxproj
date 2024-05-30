@@ -16,6 +16,7 @@
 		5FBEF5302AD6E02B00F91F6A /* knots_and_crossesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FBEF52F2AD6E02B00F91F6A /* knots_and_crossesTests.swift */; };
 		5FBEF53A2AD6E02B00F91F6A /* knots_and_crossesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FBEF5392AD6E02B00F91F6A /* knots_and_crossesUITests.swift */; };
 		5FBEF53C2AD6E02B00F91F6A /* knots_and_crossesUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FBEF53B2AD6E02B00F91F6A /* knots_and_crossesUITestsLaunchTests.swift */; };
+		5FBEF5492AD6EABC00F91F6A /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FBEF5482AD6EABC00F91F6A /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5FBEF5352AD6E02B00F91F6A /* knots-and-crossesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "knots-and-crossesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5FBEF5392AD6E02B00F91F6A /* knots_and_crossesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = knots_and_crossesUITests.swift; sourceTree = "<group>"; };
 		5FBEF53B2AD6E02B00F91F6A /* knots_and_crossesUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = knots_and_crossesUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5FBEF5482AD6EABC00F91F6A /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5FBEF5212AD6E02A00F91F6A /* Assets.xcassets */,
 				5FBEF5232AD6E02B00F91F6A /* LaunchScreen.storyboard */,
 				5FBEF5262AD6E02B00F91F6A /* Info.plist */,
+				5FBEF5482AD6EABC00F91F6A /* Game.swift */,
 			);
 			path = "knots-and-crosses";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				5FBEF51D2AD6E02800F91F6A /* ViewController.swift in Sources */,
 				5FBEF5192AD6E02800F91F6A /* AppDelegate.swift in Sources */,
 				5FBEF51B2AD6E02800F91F6A /* SceneDelegate.swift in Sources */,
+				5FBEF5492AD6EABC00F91F6A /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
